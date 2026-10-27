@@ -1,0 +1,13 @@
+# Fire TV Stick 3e gen (2020), Fire OS 7.6.9.7, 1 Go RAM. Lot 3/7 : pubs et rangées sponsorisées
+# Gardés: launcher, Appstore, réglages, clavier, télécommande/BT, Wi-Fi, OTA, recherche vocale (vizzini),
+# YouTube (com.amazon.firetv.youtube), Prime Video (firebat, tv.support), cast (dialservice, whisperplay,
+# whisperlink, awvflingreceiver), miroir (cast.sink), oobe, profils.
+
+com.amazon.kso.blackbird
+com.amazon.sneakpeek
+com.amazon.media.recommendations
+com.amazon.providers.contentsupport
+com.amazon.tv.easyupgrade
+com.amazon.shoptv.client
+com.amazon.shoptv.firetv.client
+com.amazon.gamehub

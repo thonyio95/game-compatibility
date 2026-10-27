@@ -1,0 +1,12 @@
+# Fire TV Stick 3e gen (2020), Fire OS 7.6.9.7, 1 Go RAM. Lot 2/7 : collecte de données, ID pub
+# Gardés: launcher, Appstore, réglages, clavier, télécommande/BT, Wi-Fi, OTA, recherche vocale (vizzini),
+# YouTube (com.amazon.firetv.youtube), Prime Video (firebat, tv.support), cast (dialservice, whisperplay,
+# whisperlink, awvflingreceiver), miroir (cast.sink), oobe, profils.
+
+com.amazon.ceviche
+com.amazon.tv.developer.dataservice
+com.amazon.livedeviceservice
+com.amazon.privacypassservice
+com.amazon.wifilocker
+com.amazon.tv.acr
+com.amazon.hybridadidservice

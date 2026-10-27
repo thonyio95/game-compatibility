@@ -1,0 +1,13 @@
+# Fire TV Stick 3e gen (2020), Fire OS 7.6.9.7, 1 Go RAM. Lot 1/7 : télémétrie
+# Gardés: launcher, Appstore, réglages, clavier, télécommande/BT, Wi-Fi, OTA, recherche vocale (vizzini),
+# YouTube (com.amazon.firetv.youtube), Prime Video (firebat, tv.support), cast (dialservice, whisperplay,
+# whisperlink, awvflingreceiver), miroir (cast.sink), oobe, profils.
+
+com.amazon.client.metrics.api
+com.amazon.neo.minerva
+com.amazon.neo.minerva.logcat
+com.amazon.tv.fw.metrics
+com.amazon.wirelessmetrics.service
+com.amazon.perfcollection
+com.amazon.perfc
+com.amazon.dp.logger

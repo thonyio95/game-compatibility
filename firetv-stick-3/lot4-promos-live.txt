@@ -1,0 +1,11 @@
+# Fire TV Stick 3e gen (2020), Fire OS 7.6.9.7, 1 Go RAM. Lot 4/7 : notifications promo, onglet Live (pas de tuner sur une clé)
+# Gardés: launcher, Appstore, réglages, clavier, télécommande/BT, Wi-Fi, OTA, recherche vocale (vizzini),
+# YouTube (com.amazon.firetv.youtube), Prime Video (firebat, tv.support), cast (dialservice, whisperplay,
+# whisperlink, awvflingreceiver), miroir (cast.sink), oobe, profils.
+
+com.amazon.systemnotices
+com.amazon.tv.releasenotes
+com.amazon.uxnotification
+com.amazon.hedwig
+com.amazon.tv.livetv
+com.amazon.franktvinput

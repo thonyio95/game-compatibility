@@ -1,0 +1,15 @@
+# Fire TV Stick 3e gen (2020), Fire OS 7.6.9.7, 1 Go RAM. Lot 7/7 : extras Alexa (la recherche vocale au micro reste active)
+# Gardés: launcher, Appstore, réglages, clavier, télécommande/BT, Wi-Fi, OTA, recherche vocale (vizzini),
+# YouTube (com.amazon.firetv.youtube), Prime Video (firebat, tv.support), cast (dialservice, whisperplay,
+# whisperlink, awvflingreceiver), miroir (cast.sink), oobe, profils.
+
+com.amazon.tv.alexaalerts
+com.amazon.tv.alexanotifications
+com.amazon.alexa.externalmediaplayer.fireos
+com.amazon.alexamediaplayer.runtime.ftv
+com.amazon.aiondec
+com.amazon.audiohome
+com.amazon.whad
+com.amazon.whasettings
+com.amazon.wha.mediabrowserservice
+com.amazon.aca

@@ -1,0 +1,12 @@
+# Fire TV Stick 3e gen (2020), Fire OS 7.6.9.7, 1 Go RAM. Lot 5/7 : applis Amazon préinstallées (tahoe, cloud9, photos : HANDLERS_ALLOW=1 requis)
+# Gardés: launcher, Appstore, réglages, clavier, télécommande/BT, Wi-Fi, OTA, recherche vocale (vizzini),
+# YouTube (com.amazon.firetv.youtube), Prime Video (firebat, tv.support), cast (dialservice, whisperplay,
+# whisperlink, awvflingreceiver), miroir (cast.sink), oobe, profils.
+
+com.amazon.tahoe
+com.amazon.bueller.music
+com.amazon.bueller.photos
+com.amazon.cloud9
+com.amazon.tv.website_launcher
+com.amazon.tmm.tutorial
+com.amazon.storm.lightning.tutorial
